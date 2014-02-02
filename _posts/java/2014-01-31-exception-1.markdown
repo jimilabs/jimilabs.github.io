@@ -18,7 +18,7 @@ catch區塊
 
 Java語言提供了try - catch的語法來讓開發人員處理異常，當我們使用try - catch將一段可能會丟出Exception的程式碼包起來後，當異常發生時，就會進入catch區塊．
 
-{% highlight ruby %}
+{% highlight java %}
 
 public void test1() { 
     try { 
