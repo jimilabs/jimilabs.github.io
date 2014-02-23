@@ -6,7 +6,10 @@ categories: java
 tags : [JMeter]
 ---
 
+### 簡介
+
 ![image](http://jakarta.apache.org/jmeter/images/logo.jpg)
+
 
 許多的系統會有效能上的要求，舉凡網頁在多少時間內要完成載入、同時上線人數，或是某個特定功能的回應速度。對系統進行這方面的測試就稱為壓力測試，而 JMeter 就是一套免費並且是open source的壓力測試軟體。
 
