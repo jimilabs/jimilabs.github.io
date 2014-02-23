@@ -2,7 +2,7 @@
 layout: post
 title:  Oracle 查詢Foreign Key 
 date:   2012-03-05 23:23:15
-categories: java 
+categories: database
 tags : [database,oracle]
 ---
 

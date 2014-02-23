@@ -2,7 +2,7 @@
 layout: post
 title:  Primary Key 
 date:   2010-11-20 23:23:15
-categories: java 
+categories: database
 tags : [database]
 ---
 

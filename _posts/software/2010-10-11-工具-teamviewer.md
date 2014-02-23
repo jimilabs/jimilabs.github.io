@@ -2,7 +2,7 @@
 layout: post
 title:  快速遠端協助 TeamViewer QuickSupport
 date:   2010-10-11 23:23:15
-categories: java 
+categories: software
 tags : [Tools]
 ---
 
