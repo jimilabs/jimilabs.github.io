@@ -19,9 +19,12 @@ body {
   text-align: center;
 }
 
+
 h3, h4, h5, h6 { padding-top: 1em; font-size:125%; } 
 
 h1 { margin-bottom: 1em; }
+h3 {color: #8B0000; }
+
 p { margin: 1em 0; }
 
 a         { color: #00a; }
