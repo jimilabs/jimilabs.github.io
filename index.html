@@ -15,21 +15,21 @@ title: Jimi Labs
 <td valign=top>
     <ol class="posts">
     {% for post in site.categories["java"] %}
-        <li>{{ post.title }}</li>
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ol>
 </td>
 <td valign=top>
     <ol class="posts">
     {% for post in site.categories["database"] %}
-        <li>{{ post.title }}</li>
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ol>
 </td>
 <td valign=top>
     <ol class="posts">
     {% for post in site.categories["software"] %}
-        <li>{{ post.title }}</li>
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ol>
 </td>
